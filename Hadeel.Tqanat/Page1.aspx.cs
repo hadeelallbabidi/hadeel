@@ -21,6 +21,7 @@ namespace Hadeel.Tqanat
           //  TextBox1.Text = "";
             TextBox1.Text = string.Empty;
 
+
         }
 
         protected void Button2_Click(object sender, EventArgs e)

@@ -16,6 +16,7 @@ namespace Hadeel.Tqanat
             HttpCookieCollection cookies = Request.Cookies;
             Label1.Text = " Book is: " + cookies["MyCart"].Value;
 
+
         }
 
         protected void Checked(object sender, EventArgs e)
